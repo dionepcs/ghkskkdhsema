@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T14:35:12.071Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="rLAQ0tulhVwJ0P8d9uxj" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-10T14:35:51.275Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="7KSiWZ6au4J_Tuc1EKnO" version="20.8.20" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="1362" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
@@ -66,8 +66,8 @@
         <mxCell id="23046e2b9bb16c14-83" value="C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=11;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1406" y="680" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="23046e2b9bb16c14-113" value="INFRAESTRUTURA CGEE/SEMA-DF&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="126" y="140" width="1510" height="40" as="geometry" />
+        <mxCell id="23046e2b9bb16c14-113" value="INFRAESTRUTURA CGEE/SEMA-DF&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;fontColor=#030303;" parent="1" vertex="1">
+          <mxGeometry x="126" y="170" width="1510" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rcPoYwZRDyphzUQkZkZY-3" value="&lt;font color=&quot;#fcfcfc&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;strokeColor=none;fillColor=#FFFFFF;shape=mxgraph.azure.virtual_machine;rounded=1;shadow=0;fontSize=12;fontColor=#000000;align=left;labelPosition=right;" vertex="1" parent="1">
           <mxGeometry x="328" y="591" width="50" height="40" as="geometry" />
