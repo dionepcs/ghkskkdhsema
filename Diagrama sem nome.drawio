@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T14:41:01.854Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="AHUbHzKFurjNIFTnJ35m" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-10T14:57:08.946Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="xkH2rnH4RtX_RIREQWg4" version="20.8.20" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
-    <mxGraphModel dx="1362" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
+    <mxGraphModel dx="1362" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#eceff3" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="23046e2b9bb16c14-116" value="Cluster Kubernetes" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=none;strokeWidth=2;fillColor=#009BFF;fontSize=20;fontColor=#FFFFFF;align=center;arcSize=3;verticalAlign=top;spacingTop=4;" parent="1" vertex="1">
+        <mxCell id="23046e2b9bb16c14-116" value="Cluster Kubernetes" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=none;strokeWidth=2;fillColor=#009BFF;fontSize=20;fontColor=#FFFFFF;align=center;arcSize=3;verticalAlign=top;spacingTop=4;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="291" y="217" width="1180" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="23046e2b9bb16c14-27" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#8BC63E;fontSize=12;fontColor=#000000;align=center;strokeColor=none;arcSize=3;" parent="1" vertex="1">
+        <mxCell id="23046e2b9bb16c14-27" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#8BC63E;fontSize=12;fontColor=#000000;align=center;strokeColor=none;arcSize=3;opacity=60;" parent="1" vertex="1">
           <mxGeometry x="520" y="280" width="890" height="431" as="geometry" />
         </mxCell>
         <mxCell id="23046e2b9bb16c14-2" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=12;fontColor=#000000;align=center;strokeColor=#FFFFFF;arcSize=10;" parent="1" vertex="1">
@@ -69,7 +69,7 @@
         <mxCell id="23046e2b9bb16c14-113" value="INFRAESTRUTURA CGEE/SEMA-DF&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;fontColor=#030303;" parent="1" vertex="1">
           <mxGeometry x="126" y="170" width="1510" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rcPoYwZRDyphzUQkZkZY-3" value="&lt;font color=&quot;#fcfcfc&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;strokeColor=none;fillColor=#FFFFFF;shape=mxgraph.azure.virtual_machine;rounded=1;shadow=0;fontSize=12;fontColor=#000000;align=left;labelPosition=right;" vertex="1" parent="1">
+        <mxCell id="rcPoYwZRDyphzUQkZkZY-3" value="&lt;font&gt;HA Proxy&lt;br&gt;Gitlab&lt;br&gt;Gitlab-Runner&lt;br&gt;&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#FFFFFF;shape=mxgraph.azure.virtual_machine;rounded=1;shadow=0;fontSize=12;fontColor=#0d0d0d;align=center;labelPosition=center;" vertex="1" parent="1">
           <mxGeometry x="328" y="591" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rcPoYwZRDyphzUQkZkZY-6" style="html=1;startArrow=none;startFill=0;startSize=10;endArrow=none;endFill=0;endSize=10;strokeWidth=3;fontSize=11;fontColor=#FFFFFF;strokeColor=#FFFFFF;rounded=0;exitX=1;exitY=0.5;exitPerimeter=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="23046e2b9bb16c14-58" target="23046e2b9bb16c14-60">
@@ -102,7 +102,7 @@
         <mxCell id="rcPoYwZRDyphzUQkZkZY-18" value="Internet" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;fontColor=#030303;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="328" y="340" width="50" height="31.5" as="geometry" />
         </mxCell>
-        <mxCell id="rcPoYwZRDyphzUQkZkZY-20" value="IP Público do&lt;br&gt;Projeto" style="edgeStyle=orthogonalEdgeStyle;html=1;startArrow=none;startFill=0;startSize=10;endArrow=none;endFill=0;endSize=10;strokeWidth=3;fontSize=11;fontColor=#0a0a0a;strokeColor=#FFFFFF;dashed=1;rounded=0;entryX=0.532;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" edge="1" parent="1" source="rcPoYwZRDyphzUQkZkZY-18" target="23046e2b9bb16c14-62">
+        <mxCell id="rcPoYwZRDyphzUQkZkZY-20" value="IP Público do&lt;br style=&quot;font-size: 11px;&quot;&gt;Projeto" style="edgeStyle=orthogonalEdgeStyle;html=1;startArrow=none;startFill=0;startSize=10;endArrow=none;endFill=0;endSize=10;strokeWidth=3;fontSize=11;fontColor=#0a0a0a;strokeColor=#FFFFFF;dashed=1;rounded=0;entryX=0.532;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" edge="1" parent="1" source="rcPoYwZRDyphzUQkZkZY-18" target="23046e2b9bb16c14-62">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1455" y="482" as="sourcePoint" />
             <mxPoint x="1455" y="502" as="targetPoint" />
@@ -113,13 +113,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rcPoYwZRDyphzUQkZkZY-25" value="SEMASV046&lt;br&gt;10.233.147.13" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#030303;" vertex="1" parent="1">
-          <mxGeometry x="372" y="640" width="100" height="40" as="geometry" />
+          <mxGeometry x="375" y="591" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rcPoYwZRDyphzUQkZkZY-26" value="SEMASV042&lt;br&gt;10.233.147.75" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#030303;" vertex="1" parent="1">
           <mxGeometry x="657" y="388" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rcPoYwZRDyphzUQkZkZY-31" value="&lt;span style=&quot;background-color: initial;&quot;&gt;HA Proxy&lt;/span&gt;&lt;br&gt;&lt;div&gt;Gitlab&lt;/div&gt;&lt;div&gt;Gitlab-Runner&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0d0d0d;" vertex="1" parent="1">
-          <mxGeometry x="372" y="586" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rcPoYwZRDyphzUQkZkZY-34" value="SEMASV043&lt;br&gt;10.233.147.10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#030303;" vertex="1" parent="1">
           <mxGeometry x="659" y="462" width="100" height="40" as="geometry" />
