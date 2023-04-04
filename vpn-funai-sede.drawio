@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T15:00:01.408Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="20.8.20" etag="WU1ubfeOUndvWXMgf5s5" type="github"><diagram name="Página-1" id="IFx6NMGYyCRsC6z7bqO6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-04-04T15:20:32.685Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ubzaqrDA-oLarpDKfxGZ" version="20.8.20" type="github">
+  <diagram name="Página-1" id="IFx6NMGYyCRsC6z7bqO6">
+    <mxGraphModel dx="1434" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xz2f4xEVSfaitzsIXRrV-9" value="&lt;h2&gt;Rede Funai&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;spacingBottom=-44;" vertex="1" parent="1">
+          <mxGeometry x="30" y="160" width="300" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="xz2f4xEVSfaitzsIXRrV-1" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="111.11" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xz2f4xEVSfaitzsIXRrV-5" value="Firewall Hex Funai&lt;br&gt;10.1.0.209&lt;br&gt;10.1.0.210" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" vertex="1" parent="1">
+          <mxGeometry x="500" y="520" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xz2f4xEVSfaitzsIXRrV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xz2f4xEVSfaitzsIXRrV-6" target="xz2f4xEVSfaitzsIXRrV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xz2f4xEVSfaitzsIXRrV-6" value="Firewall Hex Sede&lt;br&gt;IP: 186.193.10.226" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" vertex="1" parent="1">
+          <mxGeometry x="550" y="290" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xz2f4xEVSfaitzsIXRrV-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="390" width="220" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
