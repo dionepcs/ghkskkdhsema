@@ -1,45 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T22:03:54.339Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="-PcGDUIrwOzjuAO1Up2g" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T14:24:23.709Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="RqkYFK_uwQYFgGl0eBya" version="21.1.7" type="github">
   <diagram name="Página-1" id="IFx6NMGYyCRsC6z7bqO6">
-    <mxGraphModel dx="1362" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xz2f4xEVSfaitzsIXRrV-9" value="&lt;h2&gt;Rede Funai&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;spacingBottom=-44;spacingRight=-110;spacingLeft=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="160" width="360" height="430" as="geometry" />
+        <mxCell id="xz2f4xEVSfaitzsIXRrV-9" value="&lt;h2&gt;Rede Funai&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;spacingBottom=-44;spacingRight=-110;spacingLeft=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="160" width="360" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="xz2f4xEVSfaitzsIXRrV-1" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+        <mxCell id="xz2f4xEVSfaitzsIXRrV-1" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" parent="1" vertex="1">
           <mxGeometry x="358" y="40" width="111.11" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xz2f4xEVSfaitzsIXRrV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xz2f4xEVSfaitzsIXRrV-6" target="xz2f4xEVSfaitzsIXRrV-1">
+        <mxCell id="xz2f4xEVSfaitzsIXRrV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xz2f4xEVSfaitzsIXRrV-6" target="xz2f4xEVSfaitzsIXRrV-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xz2f4xEVSfaitzsIXRrV-6" value="Firewall Hex Sede&lt;br&gt;IP: 186.193.10.226" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" vertex="1" parent="1">
+        <mxCell id="ztsh6zmvaZ3mWuMTjlFE-1" value="IP público HEX&lt;br&gt;186.193.10.226" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xz2f4xEVSfaitzsIXRrV-7">
+          <mxGeometry x="0.1042" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xz2f4xEVSfaitzsIXRrV-6" value="Firewall Hex Sede" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" parent="1" vertex="1">
           <mxGeometry x="630" y="200" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xz2f4xEVSfaitzsIXRrV-10" value="Rede Hex360" style="rounded=0;whiteSpace=wrap;html=1;spacingBottom=-25;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;fontSize=15;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;spacingRight=-110;" vertex="1" parent="1">
-          <mxGeometry x="65" y="340" width="290" height="230" as="geometry" />
+        <mxCell id="xz2f4xEVSfaitzsIXRrV-10" value="Rede Hex360" style="rounded=0;whiteSpace=wrap;html=1;spacingBottom=-25;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;fontSize=15;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;spacingRight=-110;" parent="1" vertex="1">
+          <mxGeometry x="68" y="400" width="290" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="xz2f4xEVSfaitzsIXRrV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xz2f4xEVSfaitzsIXRrV-14" target="xz2f4xEVSfaitzsIXRrV-1">
+        <mxCell id="xz2f4xEVSfaitzsIXRrV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xz2f4xEVSfaitzsIXRrV-14" target="xz2f4xEVSfaitzsIXRrV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="100" as="targetPoint" />
             <mxPoint x="217.20000000000005" y="235.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xz2f4xEVSfaitzsIXRrV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="xz2f4xEVSfaitzsIXRrV-14" target="xz2f4xEVSfaitzsIXRrV-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xz2f4xEVSfaitzsIXRrV-17" value="10.1.0.209&lt;br&gt;10.1.0.210" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="xz2f4xEVSfaitzsIXRrV-15">
-          <mxGeometry x="-0.3333" y="1" relative="1" as="geometry">
+        <mxCell id="ztsh6zmvaZ3mWuMTjlFE-2" value="IP público FUNAI/CMR&lt;br&gt;189.9.55.8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xz2f4xEVSfaitzsIXRrV-13">
+          <mxGeometry x="0.2359" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xz2f4xEVSfaitzsIXRrV-14" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="152.5" y="200" width="115" height="70" as="geometry" />
+        <mxCell id="xz2f4xEVSfaitzsIXRrV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="1" source="xz2f4xEVSfaitzsIXRrV-14" target="xz2f4xEVSfaitzsIXRrV-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xz2f4xEVSfaitzsIXRrV-5" value="192.168.100.0/24&lt;br&gt;192.168.20.0/24" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" vertex="1" parent="1">
-          <mxGeometry x="175" y="390" width="70" height="60" as="geometry" />
+        <mxCell id="ztsh6zmvaZ3mWuMTjlFE-3" value="Roteador Hex Funai&lt;br style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;10.1.0.209&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;10.1.0.210&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xz2f4xEVSfaitzsIXRrV-15">
+          <mxGeometry x="0.3381" y="2" relative="1" as="geometry">
+            <mxPoint x="1" y="-64" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="xz2f4xEVSfaitzsIXRrV-19" value="Topologia VPN IPSEC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="xz2f4xEVSfaitzsIXRrV-14" value="Rede SUTIC FUNAI" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;fontSize=15;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
+          <mxGeometry x="152.5" y="240" width="115" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xz2f4xEVSfaitzsIXRrV-5" value="192.168.100.0/24&lt;br&gt;192.168.20.0/24" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" parent="1" vertex="1">
+          <mxGeometry x="175" y="480" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xz2f4xEVSfaitzsIXRrV-19" value="Topologia VPN IPSEC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="315" y="5" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
